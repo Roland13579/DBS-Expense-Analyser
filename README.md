@@ -24,13 +24,13 @@ Install requiremental package:
 
 ### 3. Download CSV Files
 **Ensure that you have these 3 CSV files downloaded:**
-* <p>category.csv: user has to manually categorize key words from their Transaction Ref column with the respective category</p>
-* <p>goals.csv : Contains the monthly goal budget</p>
-* <p>bar_chart_data.csv : Contains distributions of monthly expenses to be plotted into a stacked bar diagram.</p>
+* `category.csv`: user has to manually categorize key words from their Transaction Ref column with the respective category
+* `goals.csv` : Contains the monthly goal budget</p>
+* `bar_chart_data.csv` : Contains distributions of monthly expenses to be plotted into a stacked bar diagram.
 
 ### 4. Update File Paths into the code
 **For each of the files, copy the file paths and pase them in their respectives areas in the code**
-*Fill in file path for category.csv
+* Fill in file path for category.csv
 ** `categories_df = pd.read_csv(r"-", on_bad_lines='skip')`
 * Fill in file path for goals.csv
 ** `goals_df = pd.read_csv(r"-", on_bad_lines='skip')`
