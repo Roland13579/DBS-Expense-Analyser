@@ -43,9 +43,9 @@ Install requiremental package:
 
 https://github.com/user-attachments/assets/4fdd9169-ee10-4828-a2c8-70920d1d2ada
 
-### 5. Functions and Analysis
+## 5. Functions and Analysis
 
-## Expense Pie Chart
+### Expense Pie Chart
 <img width="304" alt="Expense Pie Chart" src="https://github.com/user-attachments/assets/909d8651-7750-4a76-802c-ced3586b45f5">
 
 * Purpose: Pie chart helps you to quickly visualise the distribution of your expenses by analysing the proportion size of each category
@@ -53,7 +53,7 @@ https://github.com/user-attachments/assets/4fdd9169-ee10-4828-a2c8-70920d1d2ada
   * Immediate Visual Feedback: The pie chart will allow you to instantly see which categories have larger slices, indicating areas where you've overspent.
   * Focus Areas: Categories with the largest slices can be easily spotted, allowing you to prioritize them for potential cost-cutting.
 
-## Expense Breakdown
+### Expense Breakdown
 <img width="441" alt="Expense Breakdown" src="https://github.com/user-attachments/assets/8e0b03ac-be12-4f95-85e4-cf321b2d5f57">
 
 * Purpose: This provides a detailed breakdown of your spending in each category.
@@ -61,7 +61,7 @@ https://github.com/user-attachments/assets/4fdd9169-ee10-4828-a2c8-70920d1d2ada
   * Detailed Insight: You can see exactly how much you spent in each category.
   * Exclusion of Certain Categories: By excluding Transfers, Investment, and Uncategorized expenses, the focus is kept on essential or expenses which are more controllable.
   
-## Goal vs Actual Comparison
+### Goal vs Actual Comparison
 <img width="314" alt="Budget Difference" src="https://github.com/user-attachments/assets/fb8f2335-ccf5-450f-b3d3-6cafc103d2f0">
 
 * Purpose: This analysis shows whether you are within or over your budget for different categories.
@@ -69,7 +69,7 @@ https://github.com/user-attachments/assets/4fdd9169-ee10-4828-a2c8-70920d1d2ada
   * Immediate Feedback: It gives you immediate feedback on which categories you're over or under budget.
   * Focus Areas: Highlight categories with significant overspending.
 
-## Top 3 Expenses
+### Top 3 Expenses
 <img width="323" alt="Top 3 Expense" src="https://github.com/user-attachments/assets/9ee7ffdb-c276-417e-be5e-93dd1b514e58">
 
 * Purpose: This highlights your top three expenses within specific categories.
@@ -78,7 +78,7 @@ https://github.com/user-attachments/assets/4fdd9169-ee10-4828-a2c8-70920d1d2ada
   * Targeted Action: By knowing exactly where the bulk of your money is going (e.g., GRAB for Transport), you can decide if these are necessary or if adjustments can be made (e.g., using public transport more often).
   * Immediate Impact: Addressing these top expenses can have an immediate and noticeable impact on your overall budget.
 
- ## Stacked Bar Chart
+ ### Stacked Bar Chart
 <img width="596" alt="Stacked bar Chart" src="https://github.com/user-attachments/assets/15c338af-4059-4a5b-897c-217ce88eb7d1">
 
 * Purpose: This visualizes the monthly breakdown of your expenses across various categories.
@@ -87,7 +87,7 @@ https://github.com/user-attachments/assets/4fdd9169-ee10-4828-a2c8-70920d1d2ada
   * Category Comparison: Different colors represent different categories, making it easy to compare how much you spent on each category month over month.
   * Visual Representation: The visual nature of this chart helps in quickly assessing which categories consistently take up the largest portions of your budget.
 
-### Additional notes
+## Additional notes
 Unfortunately, I have yet find a way to automate the manual entries of categorizing, so I have provided some of the categorisations in the `category.csv` based on my past expenses.
 
 ### Example
