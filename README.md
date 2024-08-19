@@ -54,6 +54,7 @@ https://github.com/user-attachments/assets/4fdd9169-ee10-4828-a2c8-70920d1d2ada
 
 ## Expense Breakdown
 <img width="441" alt="Expense Breakdown" src="https://github.com/user-attachments/assets/8e0b03ac-be12-4f95-85e4-cf321b2d5f57">
+
 * Purpose: This provides a detailed breakdown of your spending in each category.
 * Aid in Analysis:
   * Detailed Insight: You can see exactly how much you spent in each category.
@@ -61,6 +62,7 @@ https://github.com/user-attachments/assets/4fdd9169-ee10-4828-a2c8-70920d1d2ada
   
 ## Goal vs Actual Comparison
 <img width="314" alt="Budget Difference" src="https://github.com/user-attachments/assets/fb8f2335-ccf5-450f-b3d3-6cafc103d2f0">
+
 * Purpose: This analysis shows whether you are within or over your budget for different categories.
 * Aid in Analysis:
   * Immediate Feedback: It gives you immediate feedback on which categories you're over or under budget.
@@ -68,6 +70,7 @@ https://github.com/user-attachments/assets/4fdd9169-ee10-4828-a2c8-70920d1d2ada
 
  ## Top 3 Expenses
 <img width="323" alt="Top 3 Expense" src="https://github.com/user-attachments/assets/9ee7ffdb-c276-417e-be5e-93dd1b514e58">
+
 * Purpose: This highlights your top three expenses within specific categories.
 * Aid in Analysis:
   * Priority Focus: It identifies the biggest spending items that could be prioritized for cost-cutting.
@@ -75,6 +78,7 @@ https://github.com/user-attachments/assets/4fdd9169-ee10-4828-a2c8-70920d1d2ada
   * Immediate Impact: Addressing these top expenses can have an immediate and noticeable impact on your overall budget.
   
 <img width="596" alt="Stacked bar Chart" src="https://github.com/user-attachments/assets/15c338af-4059-4a5b-897c-217ce88eb7d1">
+
 * Purpose: This visualizes the monthly breakdown of your expenses across various categories.
 * Aid in Analysis:
   * Trend Identification: You can easily spot trends in your spending over time. For example, the spike in July might prompt you to investigate why expenses were higher that month.
