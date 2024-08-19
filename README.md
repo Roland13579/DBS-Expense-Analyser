@@ -31,13 +31,13 @@ Install requiremental package:
 ### 4. Update File Paths into the code
 **For each of the files, copy the file paths and pase them in their respectives areas in the code**
 * Fill in file path for category.csv
-** `categories_df = pd.read_csv(r"-", on_bad_lines='skip')`
+* `categories_df = pd.read_csv(r"-", on_bad_lines='skip')`
 * Fill in file path for goals.csv
-** `goals_df = pd.read_csv(r"-", on_bad_lines='skip')`
-** `goals_df.to_csv(r"-", index=False)`
+* `goals_df = pd.read_csv(r"-", on_bad_lines='skip')`
+* `goals_df.to_csv(r"-", index=False)`
 * Fill in file path for bar_chart_data.csv
-** `bar_chart_df = pd.read_csv(r"-", on_bad_lines='skip')`
-** `stacked_bar_df.to_csv(r"-", index=False)`
+* `bar_chart_df = pd.read_csv(r"-", on_bad_lines='skip')`
+* `stacked_bar_df.to_csv(r"-", index=False)`
 
 ## Deploy
 
