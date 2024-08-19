@@ -47,6 +47,7 @@ https://github.com/user-attachments/assets/4fdd9169-ee10-4828-a2c8-70920d1d2ada
 
 ## Expense Pie Chart
 <img width="304" alt="Expense Pie Chart" src="https://github.com/user-attachments/assets/909d8651-7750-4a76-802c-ced3586b45f5">
+
 * Purpose: Pie chart helps you to quickly visualise the distribution of your expenses by analysing the proportion size of each category
 * Aid in Analysis:
   * Immediate Visual Feedback: The pie chart will allow you to instantly see which categories have larger slices, indicating areas where you've overspent.
@@ -68,7 +69,7 @@ https://github.com/user-attachments/assets/4fdd9169-ee10-4828-a2c8-70920d1d2ada
   * Immediate Feedback: It gives you immediate feedback on which categories you're over or under budget.
   * Focus Areas: Highlight categories with significant overspending.
 
- ## Top 3 Expenses
+## Top 3 Expenses
 <img width="323" alt="Top 3 Expense" src="https://github.com/user-attachments/assets/9ee7ffdb-c276-417e-be5e-93dd1b514e58">
 
 * Purpose: This highlights your top three expenses within specific categories.
@@ -76,7 +77,8 @@ https://github.com/user-attachments/assets/4fdd9169-ee10-4828-a2c8-70920d1d2ada
   * Priority Focus: It identifies the biggest spending items that could be prioritized for cost-cutting.
   * Targeted Action: By knowing exactly where the bulk of your money is going (e.g., GRAB for Transport), you can decide if these are necessary or if adjustments can be made (e.g., using public transport more often).
   * Immediate Impact: Addressing these top expenses can have an immediate and noticeable impact on your overall budget.
-  
+
+ ## Stacked Bar Chart
 <img width="596" alt="Stacked bar Chart" src="https://github.com/user-attachments/assets/15c338af-4059-4a5b-897c-217ce88eb7d1">
 
 * Purpose: This visualizes the monthly breakdown of your expenses across various categories.
