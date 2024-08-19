@@ -17,7 +17,7 @@ BOT_USERNAME:Final = '@Roland_assist_bot'
 #Loading CSV databases
 
 #Load categories CSV into the global variable
-categories_df = pd.read_csv(r"C:\Users\Gong Yuelong\Desktop\Telegram Expense analyser\categories.csv", on_bad_lines='skip')
+categories_df = pd.read_csv(r"-", on_bad_lines='skip')
 categories_dict = categories_df.groupby('Category')['Item'].apply(list).to_dict()
 #groupby('Category') - to group all rows with the same 'Category'together
 #['Item] - After grouping by category, we focus on the item column from the grouped dataframe
@@ -30,11 +30,11 @@ categories_dict = categories_df.groupby('Category')['Item'].apply(list).to_dict(
     #'Food': ['Item1', 'Item2']
 
 #Load goals CSV into the global variable
-goals_df = pd.read_csv(r"C:\Users\Gong Yuelong\Desktop\Telegram Expense analyser\goals.csv", on_bad_lines='skip')
+goals_df = pd.read_csv(r"-", on_bad_lines='skip')
 goals_dict = goals_df.groupby('Category')['Goal'].apply(list).to_dict()
 
 #Load Bar Chart Data
-bar_chart_df = pd.read_csv(r"C:\Users\Gong Yuelong\Desktop\Telegram Expense analyser\bar_chart_data.csv", on_bad_lines='skip')
+bar_chart_df = pd.read_csv(r"-", on_bad_lines='skip')
 grouped_df = bar_chart_df.groupby(['Month-Year', 'Category'])['Cost'].sum().reset_index()
 stacked_bar_dict = grouped_df.pivot(index='Month-Year', columns='Category', values='Cost').fillna(0).to_dict(orient='index')
 #Change the csv file with columns "Month-Year" and "Category" and "Cost" to a dictionary within a dictionary 
@@ -101,7 +101,7 @@ async def save_goal(update: Update, context: ContextTypes.DEFAULT_TYPE):
     goal = float(goal)# Cast goal to float
     #Update the CSV file with the updated values
     goals_df.loc[goals_df['Category'] == category, 'Goal'] = goal #.loc accessor used to select columns and rows by label. It selects the rows where the 'Category' column matches category and the 'Goal' columnand assign the goal to the goal column
-    goals_df.to_csv(r"C:\Users\Gong Yuelong\Desktop\Telegram Expense analyser\goals.csv", index=False)
+    goals_df.to_csv(r"-", index=False)
     goals_dict[category] = goal
     if context.user_data['categories']:# Check if there are more categories to process
         return await ask_goal(update, context)
@@ -352,7 +352,7 @@ async def handle_callback_query(update: Update, context: ContextTypes.DEFAULT_TY
         stacked_bar_df = pd.DataFrame(rows, columns=['Month-Year', 'Category', 'Cost'])
 
         # Save the data into a CSV file
-        stacked_bar_df.to_csv(r"C:\Users\Gong Yuelong\Desktop\Telegram Expense analyser\bar_chart_data.csv", index=False)
+        stacked_bar_df.to_csv(r"-", index=False)
         await query.edit_message_text(text="Data saved successfully!")
 
         # Create and send the stacked bar chart
