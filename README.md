@@ -4,12 +4,6 @@
 
 ## Introduction
 This is a Telegram bot used to analyse DBS transaction history. 
-Developed in Python language and using:
-* Python-Telegram-Bot library
-* Gspread library
-
-Demo result:
-
 
 ## Get started
 
