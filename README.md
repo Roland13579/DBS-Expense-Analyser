@@ -51,7 +51,7 @@ Unfortunately, I have yet find a way to automate the manual entries of categoriz
 ### Example
 <img width="1200" alt="Macs" src="https://github.com/user-attachments/assets/fed6214e-a13c-4f6b-a0f4-d120b5fd514d">
 
-If MCDONALDS hasn't been updated in the category.csv as seen here, please add the highlighted keyword "MCDONALD" into category.csv
+If MCDONALDS hasn't been updated in the `category.csv` as seen here, please add the highlighted keyword "MCDONALD" into `category.csv` so the bot will categorise any reference with the word "MCDONALDS" as category FOOD
 
 
 *Author: Gong Yuelong*
