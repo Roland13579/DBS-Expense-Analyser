@@ -44,4 +44,8 @@ Install requiremental package:
 https://github.com/user-attachments/assets/4fdd9169-ee10-4828-a2c8-70920d1d2ada
 
 
+
+### Additional notes
+Unfortunately, I have yet find a way to automate the manual entries of categorizing, so I have provided some of the categorisations in the category.csv based on my past expenses.
+
 *Author: Gong Yuelong*
