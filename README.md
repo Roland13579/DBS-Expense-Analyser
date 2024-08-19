@@ -41,14 +41,7 @@ Install requiremental package:
 
 ## Turorial
 
-<p>This project will be deployed via Github and PythonAnywhere.</p>
+https://github.com/user-attachments/assets/4fdd9169-ee10-4828-a2c8-70920d1d2ada
 
-<p>Firstly, you have to push the source code to Github as usual. It is recommended that setting your repository privately as this project contains sensitive information like <code>token</code> and <code>JSON file</code>.</p>
 
-## Result
-
-<p>Here is my released result: <a href="https://t.me/mkkeyBot">@mkkeyBot</a></p>
-
-Thank you for visiting!
-
-*Author: Hoang Duc Nam*
+*Author: Gong Yuelong*
