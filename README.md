@@ -48,7 +48,7 @@ https://github.com/user-attachments/assets/4fdd9169-ee10-4828-a2c8-70920d1d2ada
 ### Additional notes
 Unfortunately, I have yet find a way to automate the manual entries of categorizing, so I have provided some of the categorisations in the `category.csv` based on my past expenses.
 ## Example
-<img width="1000" alt="Uncategorized Macs" src="https://github.com/user-attachments/assets/04c71617-b32f-4822-a8a5-9e7f8577cd8e">
+<img width="1200" alt="Uncategorized Macs" src="https://github.com/user-attachments/assets/04c71617-b32f-4822-a8a5-9e7f8577cd8e">
 If MCDONALDS hasn't been updated in the category.csv as seen here, please add the highlighted keyword "MCDONALD" into category.csv
 
 
