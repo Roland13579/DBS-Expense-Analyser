@@ -1,5 +1,5 @@
 <p align="center">
- <h1 align="center">Telegram Bot: DBS Expense Anaalysis</h1>
+ <h1 align="center">Telegram Bot: DBS Expense Analysis</h1>
 </p>
 
 ## Introduction
@@ -39,7 +39,7 @@ Install requiremental package:
   * `bar_chart_df = pd.read_csv(r"-", on_bad_lines='skip')`
   * `stacked_bar_df.to_csv(r"-", index=False)`
 
-## Deploy
+## Turorial
 
 <p>This project will be deployed via Github and PythonAnywhere.</p>
 
