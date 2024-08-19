@@ -49,7 +49,7 @@ https://github.com/user-attachments/assets/4fdd9169-ee10-4828-a2c8-70920d1d2ada
 Unfortunately, I have yet find a way to automate the manual entries of categorizing, so I have provided some of the categorisations in the `category.csv` based on my past expenses.
 
 ### Example
-<img width="1200" alt="Final" src="https://github.com/user-attachments/assets/4f7b2c50-d44f-4877-a305-9548139ad56a">
+<img width="1500" alt="Final" src="https://github.com/user-attachments/assets/4f7b2c50-d44f-4877-a305-9548139ad56a">
 
 If MCDONALDS hasn't been updated in the `category.csv` as seen here, please add the highlighted keyword "MCDONALD" into `category.csv` so the bot will categorise any reference with the word "MCDONALDS" as category FOOD
 
