@@ -43,6 +43,9 @@ Install requiremental package:
 
 https://github.com/user-attachments/assets/4fdd9169-ee10-4828-a2c8-70920d1d2ada
 
+## Functions and Analysis
+
+
 
 
 ### Additional notes
